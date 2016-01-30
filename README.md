@@ -1,4 +1,6 @@
 # droidsys
-Workshop about the Android system internals.
+A collection of workshops about the Android system internals.
 
-Companion webpage can be found here: [http://phil-lopreiato.github.io/droidsys/](http://phil-lopreiato.github.io/droidsys/)
+## Talks
+ - [Overall OS Architecture](http://phil-lopreiato.github.io/droidsys/overview.html)
+ - [Graphics Rendering Pipeline](http://phil-lopreiato.github.io/droidsys/rendering.html)
